@@ -1,3 +1,7 @@
 environ
 latexmk
 collection-fontsrecommended
+collection-bibtexextra
+collection-fontsextra
+collection-langgerman
+collection-xetex
